@@ -1,4 +1,4 @@
-<h1 href="https://github.com/sarojmishraa/DataVisualizationNumpy/blob/main/outpython.png"><h1/>
+<img src="https://github.com/sarojmishraa/DataVisualizationNumpy/blob/main/outpython.png">
 
 [array([[0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0,
         0, 1, 1, 0, 0, 0, 0, 1]]), array([[0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0,
